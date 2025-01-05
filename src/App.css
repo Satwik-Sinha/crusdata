@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+.app-header {
+  background-color: #20232a;
+  color: #61dafb;
+  padding: 1rem;
+}
+
+.chat-container {
+  max-width: 600px;
+  margin: 2rem auto;
+  border: 1px solid #ccc;
+  padding: 1rem;
+  background-color: #ffffff;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
