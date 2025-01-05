@@ -2,7 +2,6 @@
 const fs = require('fs');
 const path = require('path');
 
-// Paths to your data files (adjust if folder structure is different)
 const faqDataPath = path.join(__dirname, 'faqData.js');
 const knowledgeBasePath = path.join(__dirname, 'knowledgeBase.js');
 
